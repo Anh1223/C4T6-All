@@ -1,0 +1,5 @@
+print("Nhập họ mày vào")
+ho = input(">>>")
+print("Nhập tên mày vào")
+ten = input(">>>")
+print("Tên bạn đã được chuyển thành chữ hoa:", ho.upper(), ten.upper())
