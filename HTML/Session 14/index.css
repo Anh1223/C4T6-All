@@ -1,0 +1,127 @@
+.rectangle1{
+    background-color: rosybrown;
+    width: 100%;
+    height: 130px;
+}
+
+.rectangle2{
+    background-color: rgb(116, 212, 132);
+    width: 100%;
+    height: 392px;
+}
+
+.rectangle3{
+    background-color: black;
+    width: 100%;
+    height: 16px;
+}
+
+.rectangle4{
+    background-color: black;
+    width: 100%;
+    height: 16px;
+}
+
+.rectangle5{
+    background-color: rgb(3, 68, 7);
+    width: 25%;
+    height: 50px;
+    margin: 0px 1px 0px 0px
+}
+
+.rectangle6{
+    background-color: rgb(0, 47, 255);
+    width: 100%;
+    height: 14px;
+}
+
+.rectangle7{
+    background-color: rgb(0, 162, 255);
+    width: 100%;
+    height: 12px;
+}
+
+.rectangle8{
+    background-color: lightgray;
+    width: 100%;
+    height: 260px;
+    margin: 20px 0px 0px 0px;
+}
+
+
+.rectangle9{
+    background-color: rgb(95, 161, 67);
+    width: 100%;
+    height: 120px;
+}
+
+.rectangle10{
+    background-color: lightsalmon;
+    width: 100%;
+    height: 300px;
+}
+
+.rectangle11{
+    background-color: lightblue;
+    width: 60%;
+    height: 30px;
+}
+
+.rectangle12{
+    background-color: rosybrown;
+    width: 40%;
+    height: 30px;
+}
+
+.m-30px{
+    margin: 30px;
+}
+
+.cot1{
+    background-color: white;
+    width: 30%;
+    height: 925px;
+}
+
+.cot2{
+    background-color: white;
+    width: 70%;
+    height: 925px;
+}
+
+.f-s{
+    background-color: white;
+    width: 100%;
+    height: 925px;
+}
+
+.f-f-r-n{
+    flex-flow: row nowrap
+}
+
+.d-p{
+    display: flex;
+}
+
+.a-e{
+    align-items: flex-end;
+}
+
+m-1{
+    margin: 1%;
+}
+
+.m-20px{
+    margin: 10px 0px 10px 0px;
+}
+
+.o19{
+    background-color: white;
+    width: 25%;
+    height: 450px;
+    flex-flow: row wrap
+}
+
+.m-9px{
+    margin: 9px;
+}
